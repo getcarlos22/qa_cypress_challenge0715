@@ -1,0 +1,16 @@
+{
+  "name": "qa_cypress_challenge",
+  "version": "1.0.0",
+  "description": "Check24 Shopping Services QA challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "Regina Wild",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.1.0"
+  }
+}
