@@ -8,7 +8,7 @@
     "cypress:open": "cypress open"
   },
   "keywords": [],
-  "author": "Regina Wild",
+  "author": "Carlos Adjetey",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^7.1.0"
